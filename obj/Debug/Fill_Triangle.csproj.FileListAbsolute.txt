@@ -1,8 +1,0 @@
-C:\Temp\Fill_Triangle\bin\Debug\Fill_Triangle.exe
-C:\Temp\Fill_Triangle\bin\Debug\Fill_Triangle.pdb
-C:\Temp\Fill_Triangle\obj\Debug\Fill_Triangle.csprojResolveAssemblyReference.cache
-C:\Temp\Fill_Triangle\obj\Debug\Fill_Triangle.Properties.Resources.resources
-C:\Temp\Fill_Triangle\obj\Debug\Fill_Triangle.csproj.GenerateResource.Cache
-C:\Temp\Fill_Triangle\obj\Debug\Fill_Triangle.exe
-C:\Temp\Fill_Triangle\obj\Debug\Fill_Triangle.pdb
-C:\Temp\Fill_Triangle\obj\Debug\Fill_Triangle.frmMain.resources
